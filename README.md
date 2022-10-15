@@ -1,4 +1,4 @@
-# NLW eSports 
+# Algoritmos e Lógica de programação
 
 ![preview](./.github/preview.png)
 
