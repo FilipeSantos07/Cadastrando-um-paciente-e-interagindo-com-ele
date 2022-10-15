@@ -1,16 +1,3 @@
-/*
- Crie uma lista de pacientes
-
-  Cada paciente dentro da lista, deverá conter
-    nome
-    idade
-    peso
-    altura
-
-  Escreva uma lista contendo o nome dos pacientes, suas idades, alturas e pesos.
-
-  E mostrar na tela : O paciente x tem x anos, pesa x kilos, e tem uma altura de x cms.
-*/
 
 const patients = [
   {
@@ -27,7 +14,7 @@ let userOption
 
 while(userOption != 4) {
 
-  userOption = Number(prompt(`~ Seja Bem vindo(a) a Healthy Card ~
+  userOption = Number(prompt(`~ Seja Bem vindo(a) a Healthy Heart ~
 
     Digite o número da opção desejada:
 

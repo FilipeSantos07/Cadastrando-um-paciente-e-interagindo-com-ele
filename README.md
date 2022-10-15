@@ -4,15 +4,14 @@
 
 > Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Nessa aula eu aprendi a estruturar dados com objetos, criamos uma lista de pacientes, e no final mostramos as informações de cada paciente na tela. Também deu para revisar o loop for e aprendi o loop for of, uma estrutura de repetição muito útil pra arrays e objetos.
 
 [🔗 Clique aqui para acessar](https://filipesantos07.github.io/NLW-projeto-da-rocketseat/)
 
 ## 🛠️ Tecnologias
 
 - HTML
-- CSS
-- Git e Github
+- JavaScript
 
 ## 💛 Contato
 
